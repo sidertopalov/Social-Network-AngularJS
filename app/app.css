@@ -1,0 +1,17 @@
+/* app css stylesheet */
+
+body {
+  margin-top: 60px;
+}
+
+.border {
+  border: 1px solid black;
+  padding: 15px;
+}
+.margin-bottom-100 {
+  margin-bottom: 100px;
+}
+
+#footer {
+	font-size: 14px;
+}
